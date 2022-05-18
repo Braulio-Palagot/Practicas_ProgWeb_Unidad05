@@ -6,7 +6,7 @@
         <option value="suma">Sumar</option>
         <option value="multiplicacion">Multiplicar</option>
 </select><br><br>
-<input type ="submite" value="Calcular">
+<input type ="submit" value="Calcular">
 </form>
 
 
