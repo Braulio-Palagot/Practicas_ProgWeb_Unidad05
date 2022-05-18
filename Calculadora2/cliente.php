@@ -1,5 +1,5 @@
 <H1>Calculadora</H1>
-<form action="clientep.php" method="get">
+<form action="cliente.php" method="get">
     Numero 1: <input type="text" name="a"><br> 
     Numero 2: <input type="text" name="b"><br>
     Operacion: <select name="action">
